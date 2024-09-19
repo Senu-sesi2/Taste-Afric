@@ -5,7 +5,6 @@
 1. 👩🏻‍💻 [Introduction](#introduction)
 2. ⚛ [Tech Stack](#tech-stack)
 2. 🛠️ [Features](#features)
-3. 🤝 [Credit](#credit)
 4. ✍ [Author](#author)
 
 ## <a name="introduction">👩🏻‍💻 Introduction</a>
@@ -28,9 +27,6 @@ TasteAfric is a web application dedicated to showcasing the rich diversity of Af
 
 👉 **Step-by-step instructions**: Images and tips to guide users in preparing delicious African dishes.
 
-## <a name="credit">🤝 Credit</a>
-credit to CodeWave - Kindly visit his Youtube Channel for more amazing projects
-- [ 🎬 🎥 🔴 ▶ YouTube Channel](https://www.youtube.com/@CodeWaveWithAsante)
 
 ## <a name="author">✍ Author</a>
 - ⋆˚࿔ 𝐧𝐚𝐦𝐞 𝜗𝜚˚⋆: Emmanuel Senu Mensah
